@@ -324,6 +324,7 @@ header{
     font-weight:900;
     margin-bottom: 5px;
 }
+.con2_txt>p{font-size: 14px;}
 .con2_txt b{margin-right: 6px;}
 .con2_date{font-size: 14px;}
 #intro{
@@ -809,6 +810,7 @@ footer{
     .con1_me>h2{font-size: 4vw;}
     .con1_me>h2:first-child{line-height: 40px;}
     .con2 .h2{font-size: 1.5rem;}
+    .con2_txt>p{font-size: 1.1rem;}
     .my_pic{height:40vh;}
     .profile_wrap{flex-wrap: nowrap; width: 95%; justify-content: space-around;}
     .profile_wrap>.con2_txt{width: auto;}
