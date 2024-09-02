@@ -245,7 +245,7 @@ header{
     margin-bottom: 20px;
 }
 .con2 .h2{
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     font-family: "Poetsen One", sans-serif;
     display:inline-block;
     position:relative;
@@ -312,7 +312,7 @@ header{
     justify-content: center;
 }
 .con2_txt{
-    margin-bottom: 20px;
+    margin-top: 20px;
     width: 80%;
     /*border: 1px solid black;*/
     border-radius: 20px;
@@ -863,9 +863,9 @@ footer{
     .con23{height: 937px; display: flex; flex-direction: column; justify-content: flex-end; align-items:center;}
     .con2{width: 100%; flex-direction: row; justify-content: center; margin-top:40px; padding-top:20px;}
     .con2>.after_wrap{width: 100%; display: flex; justify-content: center;}
-    .con2 .h2{margin-bottom:14px;}
+    .con2 .h2{margin-bottom: 20px;}
     .my_pic{width: 350px; height: 35vh; background-position: center center;}
-    .con2_txt_wrap{width: 60%;}
+    .con2_txt_wrap{width: 80%;}
     .profile_wrap{flex-direction: row; width: auto;}
     #intro{margin-bottom: 20px;}
     .con2_txt{margin-bottom:0;}
