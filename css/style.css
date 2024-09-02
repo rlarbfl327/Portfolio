@@ -752,6 +752,8 @@ header{
 } */
 .qrcode{display: none;}
 /* .icon_pc{display: none;} */
+.icon_pc>a{font-weight: bold;}
+.icon_pc>a:hover{color: #8cb3d3;}
 /*위로가기 버튼*/
 .top_btn{
     position:fixed;
@@ -760,7 +762,7 @@ header{
     width: 40px;
     height: 40px;
     border-radius: 50px;
-    background: black;
+    background: #658eaf;
     cursor:pointer;
     z-index: 10;
     color: white;
@@ -778,7 +780,7 @@ header{
     box-shadow: 0 0 5px 0 #777;
     background: white;
     transition: all .3s linear;
-    color: black;
+    color: #658eaf;
 }
 /*footer*/
 footer{
@@ -900,6 +902,7 @@ footer{
     .color_icon{opacity:1; top: 0; left: 0; width: 60px; height: 60px; }
     .icon_pc{display: none;}
     .icon_pc>a{color: #333;}
+    .icon_pc:hover{color: #8cb3d3;}
     .icon_pc:after{
         content:"";
         width:100%;
