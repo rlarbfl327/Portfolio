@@ -456,7 +456,7 @@ header{
     position:relative;
     z-index:2;
 }
-.poh2{color: #8cb3d3;}
+.poh2{color: #8cb3d3; margin-bottom: 20px;}
 .con4 .h2::after{
     content:"";
     width: 20px;
