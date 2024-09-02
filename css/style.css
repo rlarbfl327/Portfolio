@@ -495,7 +495,7 @@ header{
     color: white;
     text-align: center;
     border-radius: 10px;
-    justify-content:center;
+    justify-content:center; 
     align-content: center;
     flex-direction: column;
 }
